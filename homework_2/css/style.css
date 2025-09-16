@@ -1,16 +1,33 @@
+ html {
+ 	font-family: "Roboto", sans-serif;
+ 	font-optical-sizing: auto;
+ 	font-weight: weight 400;
+ 	font-style: normal;
+ }
+
  header {
-margin: 20% 20%;
- font-size: 34px;
-	text-align: center;
-}
-body {
-margin: 0 20%;
-}
-footer {
-   margin-left: 80%;
-}
-/* 
+ 	margin: 5% 20%;
+ 	color: rgb(4, 89, 122);
+ 	font-size: 24px;
+ }
 
-прапрап */
+ body {
+ 	margin: 0% 20%;
+ 	font-size: 16px;
+ 	font: roboto;
 
+ }
 
+ body a {
+ 	margin-left: 30%;
+ 	margin: 5% 20%;
+ 	font-size: 16px;
+ }
+
+ footer {
+ 	margin-left: 50%;
+ 	margin: 5% 20%;
+ 	font-size: 16px;
+ }
+
+ /* прапрап */
